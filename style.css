@@ -1,0 +1,22 @@
+body {
+    background: wheat;
+}
+.hero {
+    width: 100%;
+    padding: 70px 0px;
+    background: linear-gradient(45deg, red, blue);
+    color: white;
+}
+h1 {
+    font-weight: 700;
+}
+.todo-title-wrapper {
+    height: 50px;
+}
+.task-btn {
+    background: linear-gradient(45deg, red, blue);
+    color: white;
+}
+.task-btn:hover {
+    color: wheat;
+}
